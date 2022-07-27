@@ -5,7 +5,7 @@
 - 👨‍🎓 Be smart: learn all this when you're young. It's a huge difference. 
 - 💞️ I’m looking to collaborate on: maybe some project in the future
 - 🎁 new job, working with data etc. would be nice. (currently manager business intelligence)
-- 📫 How to reach me: for starters >> direct message in github will do.
+- 📫 How to reach me: for starters >> direct message in github will do (if this is possible on gighub?).
 
 <!---
 janpjads/janpjads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
